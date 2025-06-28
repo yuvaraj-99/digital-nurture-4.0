@@ -1,6 +1,6 @@
-### Name : Arka Pratim Ghosh
-### SuperSet ID : 5011563
-### Email : arkapratimghosh1264@gmail.com
-### GitHub Repository : https://github.com/arkapg211002/5011563
+### Name : Yuvaraj T
+### SuperSet ID : 6385590
+### Email : yuva22045.ee@rmkec.ac.in
+### GitHub Repository :  https://github.com/yuvaraj-99/digital-nurture-4.0.git
 
 ### Week 2 : PL/SQL
